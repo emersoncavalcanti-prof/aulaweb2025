@@ -4,7 +4,11 @@ header{
     height: 80px;
     width: 100%;
     text-align: center;
-    font-size:40px;
+    font-size:20px;
+}
+
+header p{
+    color: greenyellow;;
 }
 
 nav{
@@ -17,12 +21,16 @@ nav{
 }
 
 section{
-  background-color: yellow;
+  background-color: brown;
     color: white;
     height:400px;
     width: 100%;
     text-align: center;
     font-size:20px;   
+}
+
+section p,section strong{
+    color: white;
 }
 
 footer{
@@ -32,4 +40,16 @@ footer{
     width: 100%;
     text-align: center;
     font-size:20px;   
+}
+#empresa{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border: 1px solid white;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    border: 1px solid white;
 }
