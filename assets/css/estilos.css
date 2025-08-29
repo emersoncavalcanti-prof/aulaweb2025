@@ -17,12 +17,13 @@ nav{
 }
 
 section{
-  background-color: gray;
+    background-color: gray;
     color: white;
     height:400px;
     width: 100%;
     text-align: center;
     font-size:20px;   
+    margin-top: 20px;
 }
 
 section p,section strong{
